@@ -44,8 +44,13 @@ No caso do serviço de busca, focaremos especificamente no Google. Neste caso, n
 O ponto de partida para as demandas previamente listadas são os repositórios abaixo listados. Espiem, forkem, clonem, contribuam!
 
 https://github.com/resocie/twitter-data-monitor
+
 https://github.com/resocie/instagram-data-monitor
+
 https://github.com/resocie/youtube-data-monitor
+
 https://github.com/minimaxir/facebook-page-post-scraper
+
 https://tools.digitalmethods.net/beta/scrapeGoogle/
+
 https://github.com/teogenesmoura/spreadsheetsGoogle
