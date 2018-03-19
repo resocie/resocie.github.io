@@ -2,9 +2,9 @@
 layout: default
 ---
 
-#OBSERVATÓRIO DAS ELEIÇÕES 2018#
+# OBSERVATÓRIO DAS ELEIÇÕES 2018
 
-O *Observatório das Eleições* 2018 foi criado no âmbito do grupo de pesquisa Resocie (“Repensando as Relações Sociedade-Estado”) do Instituto de Ciência Política - IPOL da Universidade de Brasília, e conta com o apoio técnico da Professora Cláudia Melo, do Departamento de Computação - CIC, e da turma da disciplina Engenharia de Software. O Observatório abriga uma série de iniciativas de pesquisa, que têm como objetivo geral analisar os usos e impactos das novas tecnologias digitais nas eleições brasileiras de 2018. 
+O **Observatório das Eleições** 2018 foi criado no âmbito do grupo de pesquisa Resocie (“Repensando as Relações Sociedade-Estado”) do Instituto de Ciência Política - IPOL da Universidade de Brasília, e conta com o apoio técnico da Professora Cláudia Melo, do Departamento de Computação - CIC, e da turma da disciplina Engenharia de Software. O Observatório abriga uma série de iniciativas de pesquisa, que têm como objetivo geral analisar os usos e impactos das novas tecnologias digitais nas eleições brasileiras de 2018. 
 
 Mais especificamente, queremos compreender como os atores políticos (candidatos, organizações da sociedade civil, movimentos sociais, coletivos) usarão mídias sociais para tentar influenciar o processo eleitoral. Em particular, focaremos no estudo dos usos de quatro dessas mídias: Facebook, YouTube, Instagram e Twitter. Essas plataformas têm sido utilizadas em eleições para atingir audiências diferentes e com estratégias distintas. É importante, portanto, estudar cada uma separamente e poder comparar seus usos.
 
@@ -12,7 +12,7 @@ Além disso, estamos interessados em compreender melhor os impactos da chamada �
 
 É importante compreender como esses usos e impactos mudam, à medida que os atores se adaptam às mudanças de contexto prévias ao momento eleitoral. Por isso, precisamos de estratégias e ferramentas que permitam fazer a coleta sistemática de dados ao longo do tempo.
 
-##Justificativa##
+## Justificativa
 
 Estas eleições representam o fim de um ciclo político da democracia brasileira. Iniciado em 1989, nas primeiras eleições presidenciais diretas depois da ditadura militar, encerra-se em 2018 com a crise dos principais atores que lideraram o país nos processos de transição e consolidação democráticas. Ao mesmo tempo em que os atores tradicionais estão em crise, não há uma renovação política clara, nem de partidos políticos e de candidatos ou mesmo de programas políticos. Estas eleições serão marcadas pela incerteza quanto às escolhas e pela polarização política. 
 
@@ -20,7 +20,7 @@ Mais diretamente relacionado ao nosso problema de pesquisa, o processo também �
 
 Este projeto busca não apenas contribuir para o debate acadêmico sobre o papel da Internet em processos eleitorais, mas também colaborar para o aprimoramento das regras eleitorais sobre o tema.
 
-##Coleta de Dados: o mapa do terreno##
+## Coleta de Dados: o mapa do terreno
 
 Para alcançar os objetivos do Observatório, precisamos de dados sistemáticos e longitudinais sobre os usos que os atores que nos interessam têm feito de mídias sociais e de serviços de busca. Já estamos fazendo um mapeamento preliminar da presença desses atores no que chamamos de “Web pública”, ou seja, naquelas plataformas às quais temos acesso sem necessidade de pedir permissão: sites, páginas oficiais do Facebook (“fan pages”), contas do Twitter (de acesso público), canais do YouTube e contas no Instagram. O projeto também utilizará técnicas qualitativas para coletas de dados, tais como entrevistas e grupos focais, mas isso será feito apenas a partir de junho.
 
@@ -30,10 +30,10 @@ O número de atores-chave tem variado mês a mês, de acordo com as mudanças no
 
 Para cada mídia social, temos interesse em coletar as seguintes informações (e sua variação ao longo do tempo, até as eleições):
 
--*Facebook*: número de seguidores de cada página e número de postagens (pode ser o número de posts publicados em um determinado período ou o número total)
--*Twitter*: número de seguidores de cada conta e número de tweets publicados (pode ser o número de tweets publicados em um determinado período ou o número total); também é importante saber se os atores não têm conta no Twitter
--*YouTube*: número de assinantes do canal e número de vídeos postados; também nos interessa saber se os atores listados não têm canal
--*Instagram*: número de seguidores e número de postagens daqueles atores que têm conta no Instagram
+* **Facebook**: número de seguidores de cada página e número de postagens (pode ser o número de posts publicados em um determinado período ou o número total)
+* **Twitter**: número de seguidores de cada conta e número de tweets publicados (pode ser o número de tweets publicados em um determinado período ou o número total); também é importante saber se os atores não têm conta no Twitter
+* **YouTube**: número de assinantes do canal e número de vídeos postados; também nos interessa saber se os atores listados não têm canal
+* **Instagram**: número de seguidores e número de postagens daqueles atores que têm conta no Instagram
 
 Além dessas informações básicas sobre alcance e uso, teríamos interesse em dados de engajamento, ou seja, em que medida os usuários interagiram com esses canais, seja comentando, compartilhando ou curtindo. No entanto, isso pode ficar para uma segunda etapa da pesquisa.
 
