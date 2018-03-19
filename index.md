@@ -41,7 +41,7 @@ No caso do serviço de busca, focaremos especificamente no Google. Neste caso, n
 
 ## Repositórios
 
-O ponto de partida para as demandas previamente listadas são os repositórios abaixo listados. Espiem, forkem, clonem, contribuam!
+O ponto de partida para as demandas previamente listadas são os repositórios abaixo listados. Espiem, forkem contribuam!
 
 [https://github.com/resocie/twitter-data-monitor](https://github.com/resocie/twitter-data-monitor)
 
